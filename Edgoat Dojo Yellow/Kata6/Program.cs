@@ -1,5 +1,5 @@
 ﻿
-string[] enemies = { "Goblin", "Orc", "Troll" };
+string[] enemies = { "Goblin", "Orc", "Troll", "Skeleton", "Dragon" };
 
 Console.WriteLine("Enemies:");
 foreach (string enemy in enemies)
@@ -16,6 +16,8 @@ foreach (string item in inventory)
 }
 
 inventory.Add("Helmet");
+inventory.Add("Breastplate");
+inventory.Remove("Potion");
 
 Console.WriteLine("\nUpdated Inventory:");
 foreach (string item in inventory)
