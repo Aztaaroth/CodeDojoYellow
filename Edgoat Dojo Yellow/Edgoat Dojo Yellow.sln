@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniKata5", "MiniKata5\MiniKata5.csproj", "{ACAD63FB-D387-4616-B612-30DAEFECA787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACAD63FB-D387-4616-B612-30DAEFECA787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAD63FB-D387-4616-B612-30DAEFECA787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAD63FB-D387-4616-B612-30DAEFECA787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAD63FB-D387-4616-B612-30DAEFECA787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
